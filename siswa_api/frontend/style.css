@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body {
+    background: rgb(143,130,130);
+    background: -moz-linear-gradient(53deg, rgba(143,130,130,1) 0%, rgba(153,153,153,1) 81%);
+    background: -webkit-linear-gradient(53deg, rgba(143,130,130,1) 0%, rgba(153,153,153,1) 81%);
+    background: linear-gradient(53deg, rgba(143,130,130,1) 0%, rgba(153,153,153,1) 81%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#8f8282",endColorstr="#999999",GradientType=1);
+height: 100vh;
+}
+
+
+.table{
+    background-color: gray;
+    border-radius: 5px;
+
+}
